@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": ">=5.3.3",
+        "doctrine/collections": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Doctrine\\Common\\Collections\\": "src/"
+        }
+    }
+}
