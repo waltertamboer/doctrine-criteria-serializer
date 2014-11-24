@@ -1,4 +1,17 @@
 {
+    "name": "waltertamboer/doctrine-criteria-serializer",
+    "description": "A small PHP library that can be used to serialize a Doctrine Criteria object.",
+    "keywords": ["doctrine", "criteria", "serialize", "unserialize", "serializer"],
+    "homepage": "https://github.com/waltertamboer/doctrine-criteria-serializer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Walter Tamboer",
+            "email": "walter@tamboer.nl",
+            "homepage": "http://www.waltertamboer.nl",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
         "doctrine/collections": "*"
